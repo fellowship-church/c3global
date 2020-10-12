@@ -4,136 +4,17 @@
       {
         "geometry": {
           "coordinates": [
-            -97.4882619,
-            35.2645854
-          ],
-          "type": "Point"
-        },
-        "id": "recDtnjCv7xk3ZrLf",
-        "properties": {
-          "Location Address": "3801 Journey Pkwy Norman, OK 73072",
-          "Location Name": "Fellowship Church - Norman, OK",
-          "lat": 35.2645854,
-          "lon": -97.4882619
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -82.25367299999999,
-            27.043111
-          ],
-          "type": "Point"
-        },
-        "id": "recFFax5iXAtM2H9A",
-        "properties": {
-          "Location Address": "13000 Tamiami Trl North Port, FL 34287",
-          "Location Name": "Fellowship Church - North Port, FL",
-          "lat": 27.043111,
-          "lon": -82.25367299999999
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -95.2773524,
-            32.6441692
-          ],
-          "type": "Point"
-        },
-        "id": "recNnKC255aLBiYpZ",
-        "properties": {
-          "Location Address": "2302 Private Road # 7850 Hawkins, TX 75765",
-          "Location Name": "Fellowship Church - Hawkins, TX",
-          "lat": 32.6441692,
-          "lon": -95.2773524
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -97.0335461,
             32.9634508
           ],
           "type": "Point"
         },
-        "id": "recVygUdsz0PaKaYt",
+        "id": "recLeK8XHFftjXHh0",
         "properties": {
           "Location Address": "2450 N Hwy 121 Grapevine TX, 76051",
-          "Location Name": "Fellowship Church - Grapevine, TX",
+          "Location Name": "Fellowhip Church - Grapevine, TX",
           "lat": 32.9634508,
           "lon": -97.0335461
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -97.35528509999999,
-            32.7534322
-          ],
-          "type": "Point"
-        },
-        "id": "recaWCIlVJsfQPkrX",
-        "properties": {
-          "Location Address": "508 Carroll St Fort Worth, TX 76107",
-          "Location Name": "Fellowship Church - Fort Worth, TX",
-          "lat": 32.7534322,
-          "lon": -97.35528509999999
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -96.8429726,
-            33.1787908
-          ],
-          "type": "Point"
-        },
-        "id": "reccDpclwNih9x5hk",
-        "properties": {
-          "Location Address": "12277 Dallas Pkwy Frisco, TX 75034",
-          "Location Name": "Fellowship Church - Frisco, TX",
-          "lat": 33.1787908,
-          "lon": -96.8429726
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -80.3029425,
-            25.7045002
-          ],
-          "type": "Point"
-        },
-        "id": "recdZpIM6yUbJwUch",
-        "properties": {
-          "Location Address": "6767 Sunset Dr (72nd Street) South Miami, FL 33143",
-          "Location Name": "Fellowship Church - Miami, FL",
-          "lat": 25.7045002,
-          "lon": -80.3029425
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -96.7937228,
-            32.7927696
-          ],
-          "type": "Point"
-        },
-        "id": "reckpNnDU6xB8SqRa",
-        "properties": {
-          "Location Address": "2809 Ross Ave Dallas, TX 75201",
-          "Location Name": "Fellowship Church - Dallas, TX",
-          "lat": 32.7927696,
-          "lon": -96.7937228
         },
         "type": "Feature"
       }
