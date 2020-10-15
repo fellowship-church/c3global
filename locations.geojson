@@ -1,0 +1,24 @@
+{
+  "locations": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            -97.0335461,
+            32.9634508
+          ],
+          "type": "Point"
+        },
+        "id": "recLeK8XHFftjXHh0",
+        "properties": {
+          "Location Address": "2450 N Hwy 121 Grapevine TX, 76051",
+          "Location Name": "Fellowhip Church - Grapevine, TX",
+          "lat": 32.9634508,
+          "lon": -97.0335461
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+}
