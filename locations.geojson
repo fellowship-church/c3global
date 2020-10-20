@@ -11,10 +11,10 @@
         },
         "id": "recLTM6dHTb7qzGrG",
         "properties": {
-          "Location Address": "12277 Dallas Pkwy Frisco, TX 75034",
-          "Location Name": "Fellowship Church - Frisco, TX",
+          "address": "12277 Dallas Pkwy Frisco, TX 75034",
           "lat": 33.1787908,
-          "lon": -96.8429726
+          "lon": -96.8429726,
+          "name": "Fellowship Church - Frisco, TX"
         },
         "type": "Feature"
       },
@@ -28,10 +28,10 @@
         },
         "id": "recLeK8XHFftjXHh0",
         "properties": {
-          "Location Address": "2450 N Hwy 121 Grapevine TX, 76051",
-          "Location Name": "Fellowhip Church - Grapevine, TX",
+          "address": "2450 N Hwy 121 Grapevine TX, 76051",
           "lat": 32.9634508,
-          "lon": -97.0335461
+          "lon": -97.0335461,
+          "name": "Fellowhip Church - Grapevine, TX"
         },
         "type": "Feature"
       }
