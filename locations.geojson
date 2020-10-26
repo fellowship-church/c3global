@@ -218,17 +218,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "recCyNXJGqjWL2gcp",
-        "properties": {
-          "address": "2664 Cypress Ridge Blvd. Suite 104 (Ministry Office) Wesley Chapel FL, 33544",
-          "lat": 28.193195528,
-          "mapLink": "http://maps.google.com/?q=28.1931955,28.1931955,-82.37818200000001,-82.37818200000001",
-          "name": "The Gathering"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -96.84612469999999,
