@@ -886,24 +886,6 @@
       {
         "geometry": {
           "coordinates": [
-            -97.0335461,
-            32.9634508
-          ],
-          "type": "Point"
-        },
-        "id": "recVdEO2CQln1Mbxs",
-        "properties": {
-          "address": "2450 N Hwy 121 Grapevine TX, 76051",
-          "lat": 32.9634508,
-          "lon": -97.0335461,
-          "mapLink": "http://maps.google.com/?q=32.9634508,-97.0335461",
-          "name": "Fellowship Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -96.9262386,
             32.6562426
           ],
