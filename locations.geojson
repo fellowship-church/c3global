@@ -4,115 +4,1081 @@
       {
         "geometry": {
           "coordinates": [
-            -95.2773524,
-            32.6441692
+            -87.0995278,
+            30.3857454
           ],
           "type": "Point"
         },
-        "id": "recCZ8okHQs8SQCsH",
+        "id": "rec0EsKLwbDov3ZU9",
         "properties": {
-          "address": "2302 Private Road # 7850 Hawkins, TX 75765",
-          "lat": 32.6441692,
-          "locationWebflowID": "\"5f9c8c4d817ca54981b474a2\"",
-          "lon": -95.2773524,
-          "mapLink": "http://maps.google.com/?q=32.6441692,-95.2773524",
-          "memberName": "Fellowship Church",
+          "address": "2990 Gulf Breeze Parkway Gulf Breeze, FL 32563",
+          "lat": 30.3857454,
+          "locationWebflowID": "\"5fa2d80c6fd0722d08dd65c7\"",
+          "lon": -87.0995278,
+          "mapLink": "http://maps.google.com/?q=30.3857454,-87.0995278",
+          "memberName": "Momentum Church",
           "memberReference": [
-            "recv93pr9GGJnw8Xi"
+            "rec0BBeKrhtPjlXa5"
           ],
-          "name": "Fellowship Church - Hawkins, TX"
+          "name": "Momentum Church"
         },
         "type": "Feature"
       },
       {
         "geometry": {
           "coordinates": [
-            -96.7937228,
-            32.79276960000001
+            -97.2052124,
+            32.9990984
           ],
           "type": "Point"
         },
-        "id": "recFWzu6p3XdDUuiw",
+        "id": "rec4fCYhStqf3mTZU",
         "properties": {
-          "address": "2809 Ross Ave Dallas, TX 75201",
-          "lat": 32.79276960000001,
-          "locationWebflowID": "\"5f9c8c26cdc0e990cee02540\"",
-          "lon": -96.7937228,
-          "mapLink": "http://maps.google.com/?q=32.79276960000001,-96.7937228",
-          "memberName": "Fellowship Church",
+          "address": "301 Trophy Lake Dr., Unit 136 Trophy Club, TX 76262",
+          "lat": 32.9990984,
+          "locationWebflowID": "\"5fa2d8d8ba9cdd0b65e0aa2e\"",
+          "lon": -97.2052124,
+          "mapLink": "http://maps.google.com/?q=32.9990984,-97.2052124",
+          "memberName": "Bara Church",
           "memberReference": [
-            "recv93pr9GGJnw8Xi"
+            "rec5dpbD1ESWGrSSc"
           ],
-          "name": "Fellowship Church - Dallas, TX"
+          "name": "Bara Church"
         },
         "type": "Feature"
       },
       {
         "geometry": {
           "coordinates": [
-            -97.35528509999999,
-            32.7534322
+            -97.9126503,
+            30.3106277
           ],
           "type": "Point"
         },
-        "id": "recKwcr9fxgaaVlC2",
+        "id": "rec885f5OhOr1PWQy",
         "properties": {
-          "address": "508 Carroll St Fort Worth, TX 76107",
-          "lat": 32.7534322,
-          "locationWebflowID": "\"5f9c8c3a80c50ce7823386d5\"",
-          "lon": -97.35528509999999,
-          "mapLink": "http://maps.google.com/?q=32.7534322,-97.35528509999999",
-          "memberName": "Fellowship Church",
+          "address": "11431 Bee Caves Road Austin, TX 78738",
+          "lat": 30.3106277,
+          "locationWebflowID": "\"5fa2d87f9da5ac0a5a1cf51a\"",
+          "lon": -97.9126503,
+          "mapLink": "http://maps.google.com/?q=30.3106277,-97.9126503",
+          "memberName": "Lake Hills Church",
           "memberReference": [
-            "recv93pr9GGJnw8Xi"
+            "recYB43anNUEKllWL"
           ],
-          "name": "Fellowship Church - Fort Worth, TX"
+          "name": "Lake Hills Church"
         },
         "type": "Feature"
       },
       {
         "geometry": {
           "coordinates": [
-            -96.8429726,
-            33.1787908
+            -97.8427449,
+            30.0650372
           ],
           "type": "Point"
         },
-        "id": "recScLfN7MeK9PNLp",
+        "id": "rec8zdqXCCqrlfRCD",
         "properties": {
-          "address": "12277 Dallas Pkwy Frisco, TX 75034",
-          "lat": 33.1787908,
-          "locationWebflowID": "\"5f9c8c050d7115e7bc77ecc6\"",
-          "lon": -96.8429726,
-          "mapLink": "http://maps.google.com/?q=33.1787908,-96.8429726",
-          "memberName": "Fellowship Church",
+          "address": "1235 S. Loop 4 Buda, TX 78640",
+          "lat": 30.0650372,
+          "locationWebflowID": "\"5fa2d06cc611a1831b80b73c\"",
+          "lon": -97.8427449,
+          "mapLink": "http://maps.google.com/?q=30.0650372,-97.8427449",
+          "memberName": "The Connection Church",
           "memberReference": [
-            "recv93pr9GGJnw8Xi"
+            "recXpPtpTT9kQyJhi"
           ],
-          "name": "Fellowship Church - Frisco, TX"
+          "name": "The Connection Church"
         },
         "type": "Feature"
       },
       {
         "geometry": {
           "coordinates": [
-            -97.4882619,
-            35.2645854
+            -71.2397871,
+            46.8134214
           ],
           "type": "Point"
         },
-        "id": "reczQPJmSOZXKY5rO",
+        "id": "rec9o26FGThXuAZaU",
         "properties": {
-          "address": "3801 Journey Pkwy Norman, OK 73072",
-          "lat": 35.2645854,
-          "locationWebflowID": "\"5f9c8d1704ea1e7399109969\"",
-          "lon": -97.4882619,
-          "mapLink": "http://maps.google.com/?q=35.2645854,-97.4882619",
-          "memberName": "Fellowship Church",
+          "address": "340 rue De Montmartre Qu√©bec, Canada G1K 1E2 CA",
+          "lat": 46.8134214,
+          "locationWebflowID": "\"5fa2e16d8bc9bc2b92fffbc1\"",
+          "lon": -71.2397871,
+          "mapLink": "http://maps.google.com/?q=46.8134214,-71.2397871",
+          "memberName": "Mosaic Community Church",
           "memberReference": [
-            "recv93pr9GGJnw8Xi"
+            "recjnRco8Vc7srqq0"
           ],
-          "name": "Fellowship Church - Norman, OK"
+          "name": "Mosaic Community Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -84.2669885,
+            39.3523566
+          ],
+          "type": "Point"
+        },
+        "id": "recAVbMpUOTKtYTvo",
+        "properties": {
+          "address": "5937 Kings Island Dr Mason, OH 45040",
+          "lat": 39.3523566,
+          "locationWebflowID": "\"5fa2d2431b26706d4f497770\"",
+          "lon": -84.2669885,
+          "mapLink": "http://maps.google.com/?q=39.3523566,-84.2669885",
+          "memberName": "Rivers Crossing Community Church",
+          "memberReference": [
+            "recAzBSgD6RNI9fhL"
+          ],
+          "name": "Rivers Crossing Community Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -76.353689,
+            39.5719987
+          ],
+          "type": "Point"
+        },
+        "id": "recH2TigtmAf4BPkX",
+        "properties": {
+          "address": "1705 Conowingo Road Bel Air, MD 21014",
+          "lat": 39.5719987,
+          "locationWebflowID": "\"5fa2dea75b91144fb7473ed7\"",
+          "lon": -76.353689,
+          "mapLink": "http://maps.google.com/?q=39.5719987,-76.353689",
+          "memberName": "Freedom Church",
+          "memberReference": [
+            "recGKBPZefNxsxuFs"
+          ],
+          "name": "Freedom Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.5936164,
+            33.2426139
+          ],
+          "type": "Point"
+        },
+        "id": "recIf4l8Ys5eWcLmN",
+        "properties": {
+          "address": "400 W. US. Hwy 380 Decatur, TX 76234",
+          "lat": 33.2426139,
+          "locationWebflowID": "\"5fa2dee66d9117f52485da7d\"",
+          "lon": -97.5936164,
+          "mapLink": "http://maps.google.com/?q=33.2426139,-97.5936164",
+          "memberName": "Victory Family Church - Decatur, TX",
+          "memberReference": [
+            "rec70zn79WCaVg4Uo"
+          ],
+          "name": "Victory Family Church - Decatur, TX"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -84.1683652,
+            35.962588
+          ],
+          "type": "Point"
+        },
+        "id": "recJo9Ud3EDkQUv3q",
+        "properties": {
+          "address": "10740 Faith Promise Ln Knoxville, TN 37931",
+          "lat": 35.962588,
+          "locationWebflowID": "\"5fa2d44a3b53bff3b3cbadbe\"",
+          "lon": -84.1683652,
+          "mapLink": "http://maps.google.com/?q=35.962588,-84.1683652",
+          "memberName": "Faith Promise Church",
+          "memberReference": [
+            "reci6D8oL0Wx8mnQc"
+          ],
+          "name": "Faith Promise Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -93.57004040000001,
+            45.3110341
+          ],
+          "type": "Point"
+        },
+        "id": "recJqqevyeW93Juno",
+        "properties": {
+          "address": "829 School Street Elk River, MN 55330",
+          "lat": 45.3110341,
+          "locationWebflowID": "\"5fa2d1eaf0e8981d6b5df2ce\"",
+          "lon": -93.57004040000001,
+          "mapLink": "http://maps.google.com/?q=45.3110341,-93.57004040000001",
+          "memberName": "Free Grace United",
+          "memberReference": [
+            "reczCRepzgPMyxGBJ"
+          ],
+          "name": "Free Grace United"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -94.7618375,
+            38.92661289999999
+          ],
+          "type": "Point"
+        },
+        "id": "recMZiCYJ134T75R6",
+        "properties": {
+          "address": "15101 College Blvd. Lenexa, KS 66219",
+          "lat": 38.92661289999999,
+          "locationWebflowID": "\"5fa2d7985b3d9a5757a5ec69\"",
+          "lon": -94.7618375,
+          "mapLink": "http://maps.google.com/?q=38.92661289999999,-94.7618375",
+          "memberName": "Nexus Church",
+          "memberReference": [
+            "recUZ8YjxaYMjIxMk"
+          ],
+          "name": "Nexus Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -98.48900490000001,
+            29.6427427
+          ],
+          "type": "Point"
+        },
+        "id": "recOdKh1Pnz6cDoRS",
+        "properties": {
+          "address": "20079 Stone Oak Pkwy Ste 1105-139 San Antonio, TX 78258",
+          "lat": 29.6427427,
+          "locationWebflowID": "\"5fa2d7a3bb0a496f96bee06b\"",
+          "lon": -98.48900490000001,
+          "mapLink": "http://maps.google.com/?q=29.6427427,-98.48900490000001",
+          "memberName": "Northrock Church",
+          "memberReference": [
+            "recoKTksU6XRbasMK"
+          ],
+          "name": "Northrock Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.9424739,
+            29.8857955
+          ],
+          "type": "Point"
+        },
+        "id": "recPYqbBtsg1GIwu4",
+        "properties": {
+          "address": "415 N Guadalupe St., #139 San Marcos, TX 78666",
+          "lat": 29.8857955,
+          "locationWebflowID": "\"5fa2dbc1a8994b15f386de5e\"",
+          "lon": -97.9424739,
+          "mapLink": "http://maps.google.com/?q=29.8857955,-97.9424739",
+          "memberName": "T H E H E A R T",
+          "memberReference": [
+            "recfCDfDds5LlBxCg"
+          ],
+          "name": "T H E H E A R T"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -94.9077947,
+            38.8034309
+          ],
+          "type": "Point"
+        },
+        "id": "recQJSmn5ef1ewxJ0",
+        "properties": {
+          "address": "17935 S Moonlight Rd Gardner, KS 66030",
+          "lat": 38.8034309,
+          "locationWebflowID": "\"5fa2d54ce1a06b7a1fc2ee38\"",
+          "lon": -94.9077947,
+          "mapLink": "http://maps.google.com/?q=38.8034309,-94.9077947",
+          "memberName": "New Life Community Church",
+          "memberReference": [
+            "recX1iw1BfoSpRs1G"
+          ],
+          "name": "New Life Community Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.8214905,
+            30.5812993
+          ],
+          "type": "Point"
+        },
+        "id": "recROd6wy4QEmMLUP",
+        "properties": {
+          "address": "8754 RR 2243 Leander, TX 78641",
+          "lat": 30.5812993,
+          "locationWebflowID": "\"5fa2d26bcbc82d365bdfadf9\"",
+          "lon": -97.8214905,
+          "mapLink": "http://maps.google.com/?q=30.5812993,-97.8214905",
+          "memberName": "Upwards Church",
+          "memberReference": [
+            "recYLjDrNY0qe3q3u"
+          ],
+          "name": "Upwards Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -74.6618583,
+            39.4049455
+          ],
+          "type": "Point"
+        },
+        "id": "recRwpK8LMxB4GHku",
+        "properties": {
+          "address": "1049 Ocean Heights Ave Egg Harbor Township, NJ 8234",
+          "lat": 39.4049455,
+          "locationWebflowID": "\"5fa2ddd5994f53542c76dacf\"",
+          "lon": -74.6618583,
+          "mapLink": "http://maps.google.com/?q=39.4049455,-74.6618583",
+          "memberName": "Fresh Start Church",
+          "memberReference": [
+            "rec5HOlGXJGJZgS7R"
+          ],
+          "name": "Fresh Start Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -80.7846189,
+            40.0692162
+          ],
+          "type": "Point"
+        },
+        "id": "recSo2uSKRMrCqLT6",
+        "properties": {
+          "address": "55505 National Road Wheeling, WV 43912",
+          "lat": 40.0692162,
+          "locationWebflowID": "\"5fa2deb0a8994b529886de62\"",
+          "lon": -80.7846189,
+          "mapLink": "http://maps.google.com/?q=40.0692162,-80.7846189",
+          "memberName": "The Experience Church - Bridgeport, OH",
+          "memberReference": [
+            "recslMlKdjoLG7GUQ"
+          ],
+          "name": "The Experience Church - Bridgeport, OH"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -88.1240612,
+            30.6763031
+          ],
+          "type": "Point"
+        },
+        "id": "recUkEcEV59A32pmj",
+        "properties": {
+          "address": "1275 E. I-65 Service Rd. South Mobile, AL 36606",
+          "lat": 30.6763031,
+          "locationWebflowID": "\"5fa2d2aaa119c36027cabd93\"",
+          "lon": -88.1240612,
+          "mapLink": "http://maps.google.com/?q=30.6763031,-88.1240612",
+          "memberName": "Harvest Church - Mobile, AL",
+          "memberReference": [
+            "recDGI8yDWGwOkh5W"
+          ],
+          "name": "Harvest Church - Mobile, AL"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -101.9012028,
+            35.1208838
+          ],
+          "type": "Point"
+        },
+        "id": "recUsiIQgX512pQWv",
+        "properties": {
+          "address": "8425 Bell Street Amarillo, TX 79110",
+          "lat": 35.1208838,
+          "locationWebflowID": "\"5fa2cf1794690149d8d5e2fb\"",
+          "lon": -101.9012028,
+          "mapLink": "http://maps.google.com/?q=35.1208838,-101.9012028",
+          "memberName": "Amarillo Fellowship",
+          "memberReference": [
+            "recAOgOSmznUU1Mat"
+          ],
+          "name": "Amarillo Fellowship"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -74.7530917,
+            40.26147280000001
+          ],
+          "type": "Point"
+        },
+        "id": "recW6cnbVjU7ZVrRN",
+        "properties": {
+          "address": "200 Ludlow Ave Ewing, NJ 8638",
+          "lat": 40.26147280000001,
+          "locationWebflowID": "\"5fa2d57c9d24e05d3713c5f5\"",
+          "lon": -74.7530917,
+          "mapLink": "http://maps.google.com/?q=40.26147280000001,-74.7530917",
+          "memberName": "Change Church",
+          "memberReference": [
+            "rec2Hr8Cdf5yN7oMW"
+          ],
+          "name": "Change Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -96.4414367,
+            32.74229
+          ],
+          "type": "Point"
+        },
+        "id": "recWuLji7R5kSL2f3",
+        "properties": {
+          "address": "1032 E HWY 80 Forney, TX 75126",
+          "lat": 32.74229,
+          "locationWebflowID": "\"5fa2ddace024a223de81da93\"",
+          "lon": -96.4414367,
+          "mapLink": "http://maps.google.com/?q=32.74229,-96.4414367",
+          "memberName": "Free Life Church",
+          "memberReference": [
+            "recltzjBnXPkjOJk5"
+          ],
+          "name": "Free Life Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -94.6972548,
+            36.6675115
+          ],
+          "type": "Point"
+        },
+        "id": "recX1mtBl5Knl96dC",
+        "properties": {
+          "address": "24000 S. 660 Rd. Grove, OK 74344",
+          "lat": 36.6675115,
+          "locationWebflowID": "\"5fa2d40f9d24e0835c13c5f2\"",
+          "lon": -94.6972548,
+          "mapLink": "http://maps.google.com/?q=36.6675115,-94.6972548",
+          "memberName": "Mountain Movers Church",
+          "memberReference": [
+            "recHtqlRwR8A5ZWJF"
+          ],
+          "name": "Mountain Movers Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -95.884659,
+            36.0115757
+          ],
+          "type": "Point"
+        },
+        "id": "recX507XnHfin0AKw",
+        "properties": {
+          "address": "10441 S Regal Blvd. Tulsa, OK 74133",
+          "lat": 36.0115757,
+          "locationWebflowID": "\"5fa2dbd2a8994b787f86de5f\"",
+          "lon": -95.884659,
+          "mapLink": "http://maps.google.com/?q=36.0115757,-95.884659",
+          "memberName": "Transformation Church",
+          "memberReference": [
+            "recMze9T4ubFitiLw"
+          ],
+          "name": "Transformation Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.4498132,
+            27.6935651
+          ],
+          "type": "Point"
+        },
+        "id": "recYMWCPm5CYQ3gdt",
+        "properties": {
+          "address": "7451 Bay Area Dr. Corpus Christi, TX 78415",
+          "lat": 27.6935651,
+          "locationWebflowID": "\"5fa2d0e20872de03ed019fc2\"",
+          "lon": -97.4498132,
+          "mapLink": "http://maps.google.com/?q=27.6935651,-97.4498132",
+          "memberName": "Church Unlimited",
+          "memberReference": [
+            "rec7T2qCJ1lybQke5"
+          ],
+          "name": "Church Unlimited"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -90.1073864,
+            38.9223337
+          ],
+          "type": "Point"
+        },
+        "id": "reccmFlgwThctLcIn",
+        "properties": {
+          "address": "3401 Fosterburg Rd Alton, IL 62002",
+          "lat": 38.9223337,
+          "locationWebflowID": "\"5fa2d8ee0872de3b18019fc6\"",
+          "lon": -90.1073864,
+          "mapLink": "http://maps.google.com/?q=38.9223337,-90.1073864",
+          "memberName": "River of Life / The River",
+          "memberReference": [
+            "rec2tYR5kCmaO2no4"
+          ],
+          "name": "River of Life / The River"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -82.021689,
+            39.02467499999999
+          ],
+          "type": "Point"
+        },
+        "id": "recdWWJL6OC0rBcCY",
+        "properties": {
+          "address": "500 Adamsville Rd Mason, WV 25260",
+          "lat": 39.02467499999999,
+          "locationWebflowID": "\"5fa2dc98fddc5191349e0a91\"",
+          "lon": -82.021689,
+          "mapLink": "http://maps.google.com/?q=39.02467499999999,-82.021689",
+          "memberName": "Northbend Church",
+          "memberReference": [
+            "reckrCYAt2UloUos7"
+          ],
+          "name": "Northbend Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -88.8563765,
+            35.6795547
+          ],
+          "type": "Point"
+        },
+        "id": "rece2fLPeQG5O3ozZ",
+        "properties": {
+          "address": "1016 Union University Dr, Jackson, TN 38305",
+          "lat": 35.6795547,
+          "locationWebflowID": "\"5fa2d695fff55136dbf2bfbb\"",
+          "lon": -88.8563765,
+          "mapLink": "http://maps.google.com/?q=35.6795547,-88.8563765",
+          "memberName": "SoulQuest Church",
+          "memberReference": [
+            "recf5GhMpGUxBepWF"
+          ],
+          "name": "SoulQuest Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -102.1171832,
+            31.9900828
+          ],
+          "type": "Point"
+        },
+        "id": "recesRbMWs2F7ghRa",
+        "properties": {
+          "address": "3303 W. Illinois Ave., Sp.2 Midland, TX 79703",
+          "lat": 31.9900828,
+          "locationWebflowID": "\"5fa2d7765b3d9a01a3a5ec68\"",
+          "lon": -102.1171832,
+          "mapLink": "http://maps.google.com/?q=31.9900828,-102.1171832",
+          "memberName": "The Gathering - Midland",
+          "memberReference": [
+            "recgCaS2CY59fwegH"
+          ],
+          "name": "The Gathering - Midland"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -95.4981009,
+            29.7567006
+          ],
+          "type": "Point"
+        },
+        "id": "recfEkhxpNGpXigaD",
+        "properties": {
+          "address": "6400 Woodway Dr Houston, TX 77057",
+          "lat": 29.7567006,
+          "locationWebflowID": "\"5fa2d7cc6a4f72bf50ff4840\"",
+          "lon": -95.4981009,
+          "mapLink": "http://maps.google.com/?q=29.7567006,-95.4981009",
+          "memberName": "Second Baptist Church",
+          "memberReference": [
+            "recGlF7LZ7xY2fWIK"
+          ],
+          "name": "Second Baptist Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.6771996,
+            30.494986
+          ],
+          "type": "Point"
+        },
+        "id": "recfPiYhpu6C2mdMi",
+        "properties": {
+          "address": "1601 Interstate 35 #305 Round Rock, TX 78664",
+          "lat": 30.494986,
+          "locationWebflowID": "\"5fa2d3fff0e8982b595df2d1\"",
+          "lon": -97.6771996,
+          "mapLink": "http://maps.google.com/?q=30.494986,-97.6771996",
+          "memberName": "The Exchange Church",
+          "memberReference": [
+            "rec8rhVCwiUCM02VU"
+          ],
+          "name": "The Exchange Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -89.4426383,
+            40.6127938
+          ],
+          "type": "Point"
+        },
+        "id": "reciIgDSTMJiD9xZM",
+        "properties": {
+          "address": "1060 E.  Jackson St. Morton, IL 61550",
+          "lat": 40.6127938,
+          "locationWebflowID": "\"5fa2dbfcf0930fe4a244df2d\"",
+          "lon": -89.4426383,
+          "mapLink": "http://maps.google.com/?q=40.6127938,-89.4426383",
+          "memberName": "Elevate Church - Morton, IL",
+          "memberReference": [
+            "reczdlqxxAEiluClT"
+          ],
+          "name": "Elevate Church - Morton, IL"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.33583279999999,
+            32.5378998
+          ],
+          "type": "Point"
+        },
+        "id": "recj6Naiz8wDVRxKG",
+        "properties": {
+          "address": "572 SW Wilshire Blvd Burleson, TX 76028",
+          "lat": 32.5378998,
+          "locationWebflowID": "\"5fa2d1c4cd7a821c09ab86db\"",
+          "lon": -97.33583279999999,
+          "mapLink": "http://maps.google.com/?q=32.5378998,-97.33583279999999",
+          "memberName": "Ovation Church",
+          "memberReference": [
+            "recUNrVjFxxwo9dti"
+          ],
+          "name": "Ovation Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.9023529,
+            38.087314
+          ],
+          "type": "Point"
+        },
+        "id": "recjDL7SLlvStUDiX",
+        "properties": {
+          "address": "1410 East 30th Ave Hutchinson, KS 67502",
+          "lat": 38.087314,
+          "locationWebflowID": "\"5fa2d425d8ef9cc2b47687e4\"",
+          "lon": -97.9023529,
+          "mapLink": "http://maps.google.com/?q=38.087314,-97.9023529",
+          "memberName": "CrossPoint Church",
+          "memberReference": [
+            "recJKKxDGilHjAFKK"
+          ],
+          "name": "CrossPoint Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -76.04336119999999,
+            36.8645978
+          ],
+          "type": "Point"
+        },
+        "id": "reck9rgaTsNeuNawv",
+        "properties": {
+          "address": "1000 N. Great Neck Rd Virginia Beach, VA 23454",
+          "lat": 36.8645978,
+          "locationWebflowID": "\"5fa2d86a6a4f72da40ff4841\"",
+          "lon": -76.04336119999999,
+          "mapLink": "http://maps.google.com/?q=36.8645978,-76.04336119999999",
+          "memberName": "Wave Church",
+          "memberReference": [
+            "recpPXEgaxbWynZGF"
+          ],
+          "name": "Wave Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -101.9288118,
+            35.1716552
+          ],
+          "type": "Point"
+        },
+        "id": "reclp1Dr4IQ8Zruzs",
+        "properties": {
+          "address": "7611 Poppin Lane Amarillo, TX 79121",
+          "lat": 35.1716552,
+          "locationWebflowID": "\"5fa2dda6ef9a7f29e098a047\"",
+          "lon": -101.9288118,
+          "mapLink": "http://maps.google.com/?q=35.1716552,-101.9288118",
+          "memberName": "Mark Green Ministries",
+          "memberReference": [
+            "reclgnEsXx9gLRfEr"
+          ],
+          "name": "Mark Green Ministries"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -97.2124554,
+            32.9351181
+          ],
+          "type": "Point"
+        },
+        "id": "recmubOibf06U10N9",
+        "properties": {
+          "address": "1711 Keller Parkway Keller, TX 76248",
+          "lat": 32.9351181,
+          "locationWebflowID": "\"5fa2d686e545166e0d441085\"",
+          "lon": -97.2124554,
+          "mapLink": "http://maps.google.com/?q=32.9351181,-97.2124554",
+          "memberName": "Keystone Church",
+          "memberReference": [
+            "recJtopXXM0X7hbf5"
+          ],
+          "name": "Keystone Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -82.37818200000001,
+            28.1931955
+          ],
+          "type": "Point"
+        },
+        "id": "recnGvlMeX6IC3U9x",
+        "properties": {
+          "address": "2664 Cypress Ridge Blvd. Suite 104 Wesley Chapel, FL 33544",
+          "lat": 28.1931955,
+          "locationWebflowID": "\"5fa2d594514449fb3d877994\"",
+          "lon": -82.37818200000001,
+          "mapLink": "http://maps.google.com/?q=28.1931955,-82.37818200000001",
+          "memberName": "The Gathering",
+          "memberReference": [
+            "rec70fX50unobf6o5"
+          ],
+          "name": "The Gathering"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -80.29423589999999,
+            26.2346912
+          ],
+          "type": "Point"
+        },
+        "id": "recoGOqvwK3XnxlFd",
+        "properties": {
+          "address": "400 Lakeview Drive Coral Springs, FL 33071",
+          "lat": 26.2346912,
+          "locationWebflowID": "\"5fa2dbfc484d0f2bea0bfbf7\"",
+          "lon": -80.29423589999999,
+          "mapLink": "http://maps.google.com/?q=26.2346912,-80.29423589999999",
+          "memberName": "Church By The Glades",
+          "memberReference": [
+            "recanV7TmPUmPdYCw"
+          ],
+          "name": "Church By The Glades"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -98.3061798,
+            29.5945695
+          ],
+          "type": "Point"
+        },
+        "id": "recp3I8L40WhYd5qa",
+        "properties": {
+          "address": "9630 Corporate Dr. Ste 106 Selma, TX 78154",
+          "lat": 29.5945695,
+          "locationWebflowID": "\"5fa2dca858795d572ec0876f\"",
+          "lon": -98.3061798,
+          "mapLink": "http://maps.google.com/?q=29.5945695,-98.3061798",
+          "memberName": "Revolution Church",
+          "memberReference": [
+            "recXlYjAUXJ1PH8ZQ"
+          ],
+          "name": "Revolution Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -92.6626366,
+            37.6827328
+          ],
+          "type": "Point"
+        },
+        "id": "recqhM21NyvQHIj7y",
+        "properties": {
+          "address": "195 N. Washington Ave. Lebanon, MO 65536",
+          "lat": 37.6827328,
+          "locationWebflowID": "\"5fa2d74769d1760654ccce81\"",
+          "lon": -92.6626366,
+          "mapLink": "http://maps.google.com/?q=37.6827328,-92.6626366",
+          "memberName": "Life Point- Lebanon",
+          "memberReference": [
+            "recNPqa78VvQNeffM"
+          ],
+          "name": "Life Point- Lebanon"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -78.929001,
+            33.721686
+          ],
+          "type": "Point"
+        },
+        "id": "recqkczIKACJxW1pU",
+        "properties": {
+          "address": "3432 Waccamaw Blvd Myrtle Beach, SC 29579",
+          "lat": 33.721686,
+          "locationWebflowID": "\"5fa2d5329498ee5196c20140\"",
+          "lon": -78.929001,
+          "mapLink": "http://maps.google.com/?q=33.721686,-78.929001",
+          "memberName": "Wellspring Church",
+          "memberReference": [
+            "recdk5FK9LkbWYiwO"
+          ],
+          "name": "Wellspring Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -81.94973089999999,
+            28.1275353
+          ],
+          "type": "Point"
+        },
+        "id": "recqmV7ID2e3hWJGC",
+        "properties": {
+          "address": "6780 N Socrum Loop Rd Lakeland, FL 33809",
+          "lat": 28.1275353,
+          "locationWebflowID": "\"5fa2d448f0abdcccd8a155a2\"",
+          "lon": -81.94973089999999,
+          "mapLink": "http://maps.google.com/?q=28.1275353,-81.94973089999999",
+          "memberName": "Free Life Chapel",
+          "memberReference": [
+            "recM2wHQQd6Dg7Lgw"
+          ],
+          "name": "Free Life Chapel"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -90.9845919,
+            38.3500159
+          ],
+          "type": "Point"
+        },
+        "id": "rectYncs6duL6IDcQ",
+        "properties": {
+          "address": "335 North Commercial Avenue St. Clair, MO 63077",
+          "lat": 38.3500159,
+          "locationWebflowID": "\"5fa2dcb8e20ae78553796dcc\"",
+          "lon": -90.9845919,
+          "mapLink": "http://maps.google.com/?q=38.3500159,-90.9845919",
+          "memberName": "Roots Church",
+          "memberReference": [
+            "recs6VvxKgjOuEGQb"
+          ],
+          "name": "Roots Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -96.84612469999999,
+            32.3873684
+          ],
+          "type": "Point"
+        },
+        "id": "recup9ZOx2AFteCar",
+        "properties": {
+          "address": "P.O. Box 793 Waxahachie, TX 75168",
+          "lat": 32.3873684,
+          "locationWebflowID": "\"5fa2d55e2f49d087126a375f\"",
+          "lon": -96.84612469999999,
+          "mapLink": "http://maps.google.com/?q=32.3873684,-96.84612469999999",
+          "memberName": "Network 21 Missions",
+          "memberReference": [
+            "recUzF9jD4cAOhOHL"
+          ],
+          "name": "Network 21 Missions"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -73.6217607,
+            45.49297929999999
+          ],
+          "type": "Point"
+        },
+        "id": "recx79Ul2AshE8vTE",
+        "properties": {
+          "address": "3799 Queen Mary Montreal, Qc, Canada",
+          "lat": 45.49297929999999,
+          "locationWebflowID": "\"5fa2d74efe6d24b6ca204f6f\"",
+          "lon": -73.6217607,
+          "mapLink": "http://maps.google.com/?q=45.49297929999999,-73.6217607",
+          "memberName": "City Church",
+          "memberReference": [
+            "recYxanm3P4AhNBKp"
+          ],
+          "name": "City Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -98.7216706,
+            29.515238
+          ],
+          "type": "Point"
+        },
+        "id": "recyEbfxV2RL0XXB4",
+        "properties": {
+          "address": "8098 FM 1560 San Antonio, TX 78254",
+          "lat": 29.515238,
+          "locationWebflowID": "\"5fa2e154e307d6802f1e097c\"",
+          "lon": -98.7216706,
+          "mapLink": "http://maps.google.com/?q=29.515238,-98.7216706",
+          "memberName": "Life Point Church ",
+          "memberReference": [
+            "recEEswA0mw3ZhgH0"
+          ],
+          "name": "Life Point Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -90.1352599,
+            38.9105551
+          ],
+          "type": "Point"
+        },
+        "id": "recyXUfuKNAo8Y9FY",
+        "properties": {
+          "address": "3303 Homer M. Adams Pkwy Alton, IL 62002",
+          "lat": 38.9105551,
+          "locationWebflowID": "\"5fa2d8ad76f44627d970b285\"",
+          "lon": -90.1352599,
+          "mapLink": "http://maps.google.com/?q=38.9105551,-90.1352599",
+          "memberName": "Enjoy Church",
+          "memberReference": [
+            "recjKPvYDfPTGUmtL"
+          ],
+          "name": "Enjoy Church"
         },
         "type": "Feature"
       }
