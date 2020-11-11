@@ -809,29 +809,6 @@
       {
         "geometry": {
           "coordinates": [
-            -78.929001,
-            33.721686
-          ],
-          "type": "Point"
-        },
-        "id": "recKv666Vjo4hSJbe",
-        "properties": {
-          "address": "3432 Waccamaw Blvd Myrtle Beach, SC 29579",
-          "lat": 33.721686,
-          "locationWebflowID": "\"5fa98f675ca93f29c2f4ae87\"",
-          "lon": -78.929001,
-          "mapLink": "http://maps.google.com/?q=33.721686,-78.929001",
-          "memberName": "Wellspring Church",
-          "memberReference": [
-            "recHLZTa4aKKOW8yA"
-          ],
-          "name": "Wellspring Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -81.94973089999999,
             28.1275353
           ],
