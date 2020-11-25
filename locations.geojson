@@ -809,6 +809,29 @@
       {
         "geometry": {
           "coordinates": [
+            -73.567256,
+            45.5016889
+          ],
+          "type": "Point"
+        },
+        "id": "recLtGBteExICtjRv",
+        "properties": {
+          "address": "Montreal, QC, Canada",
+          "lat": 45.5016889,
+          "locationWebflowID": "\"5fbd696adfcbc740575e976a\"",
+          "lon": -73.567256,
+          "mapLink": "http://maps.google.com/?q=45.5016889,-73.567256",
+          "memberName": "The Resurrection Center;The Resurrection Center",
+          "memberReference": [
+            "recQzHAQoTVeREfWN"
+          ],
+          "name": "The Resurrection Center"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -81.94973089999999,
             28.1275353
           ],
