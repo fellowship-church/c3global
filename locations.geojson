@@ -1315,18 +1315,18 @@
       {
         "geometry": {
           "coordinates": [
-            -98.34157230000001,
-            40.9237471
+            -94.90778397343946,
+            38.803627362497686
           ],
           "type": "Point"
         },
         "id": "recelrSDMMxLbFHHG",
         "properties": {
-          "address": "New Life Community Church",
-          "lat": 40.9237471,
+          "address": "17935 S Moonlight Rd Gardner KS, 66030",
+          "lat": 38.803627362497686,
           "locationWebflowID": "\"5fa98eb87283bb1d881616de\"",
-          "lon": -98.34157230000001,
-          "mapLink": "http://maps.google.com/?q=40.9237471,-98.34157230000001",
+          "lon": -94.90778397343946,
+          "mapLink": "http://maps.google.com/?q=38.80362736,-94.90778397",
           "memberName": "New Life Community Church",
           "memberReference": [
             "recECpLNcPRNKTwvG"
