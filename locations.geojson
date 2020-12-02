@@ -393,6 +393,13 @@
         "type": "Feature"
       },
       {
+        "geometry": null,
+        "id": "recBmXuAPOLOwzxwK",
+        "properties": {
+        },
+        "type": "Feature"
+      },
+      {
         "geometry": {
           "coordinates": [
             -97.35528509999999,
@@ -416,12 +423,20 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -74.16743264627746,
+            40.3653247799077
+          ],
+          "type": "Point"
+        },
         "id": "recC9X0hGZ0Mhzhbw",
         "properties": {
           "address": "101 Crawfords Corner Road, Holmdel, NJ 07733",
+          "lat": 40.3653247799077,
           "locationWebflowID": "\"5fc54979cb1c3eb722dfbbbd\"",
-          "mapLink": "http://maps.google.com/?q=40.3650877,40.3650474,40.3650142,-74.167457,-74.1673661,-74.167301",
+          "lon": -74.16743264627746,
+          "mapLink": "http://maps.google.com/?q=40.3653247799077,%20-74.16743264627746",
           "memberName": "Hope Worship Center",
           "memberReference": [
             "rec4c1t7exIOx1Wrk"
