@@ -393,13 +393,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "recBmXuAPOLOwzxwK",
-        "properties": {
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -97.35528509999999,
@@ -1822,13 +1815,6 @@
             "recwrEE3DR40iVmDE"
           ],
           "name": "Mosaic Community Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
-        "id": "recsSIz80BSLMcOtt",
-        "properties": {
         },
         "type": "Feature"
       },
