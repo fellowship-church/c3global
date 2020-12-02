@@ -436,7 +436,7 @@
           "lat": 40.3653247799077,
           "locationWebflowID": "\"5fc54979cb1c3eb722dfbbbd\"",
           "lon": -74.16743264627746,
-          "mapLink": "http://maps.google.com/?q=40.3653247799077,%20-74.16743264627746",
+          "mapLink": "http://maps.google.com/?q=40.36532478,-74.16743265",
           "memberName": "Hope Worship Center",
           "memberReference": [
             "rec4c1t7exIOx1Wrk"
@@ -1822,6 +1822,13 @@
             "recwrEE3DR40iVmDE"
           ],
           "name": "Mosaic Community Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
+        "id": "recsSIz80BSLMcOtt",
+        "properties": {
         },
         "type": "Feature"
       },
