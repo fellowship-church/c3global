@@ -1821,6 +1821,29 @@
       {
         "geometry": {
           "coordinates": [
+            -88.5520839,
+            30.3743459
+          ],
+          "type": "Point"
+        },
+        "id": "recseTYdPOzmBcM6C",
+        "properties": {
+          "address": "4007 Pascagoula Street",
+          "lat": 30.3743459,
+          "locationWebflowID": "\"60035c646c3e51f2852e9c6b\"",
+          "lon": -88.5520839,
+          "mapLink": "http://maps.google.com/?q=30.3743459,",
+          "memberName": "Action Church - Pascagoula, MS",
+          "memberReference": [
+            "reckdFU7jOWZQGCgu"
+          ],
+          "name": "Collective Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.9594722,
             34.7602157
           ],
