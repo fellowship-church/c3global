@@ -694,29 +694,6 @@
       {
         "geometry": {
           "coordinates": [
-            -98.3959799,
-            29.5585457
-          ],
-          "type": "Point"
-        },
-        "id": "recHl7oJBejHOoSyI",
-        "properties": {
-          "address": "13032 Nacogdoches Rd STE #221 San Antonio, TX 78217",
-          "lat": 29.5585457,
-          "locationWebflowID": "\"5fa99d827da6acc37b505c5e\"",
-          "lon": -98.3959799,
-          "mapLink": "http://maps.google.com/?q=29.5585457,-98.3959799",
-          "memberName": "GodChasers Community Church",
-          "memberReference": [
-            "recDDcO5vFdMLyldq"
-          ],
-          "name": "GodChasers Community Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -97.5936164,
             33.2426139
           ],
