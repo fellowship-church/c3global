@@ -901,26 +901,6 @@
       {
         "geometry": {
           "coordinates": [
-            10.51828961,
-            59.892080559
-          ],
-          "type": "Point"
-        },
-        "id": "recPXPIH8w9lqIG2Y",
-        "properties": {
-          "address": "Elias Smithsvei 13, Sandvika, Sandvika, 1321, NO Royken, Norway",
-          "lat": 59.892080559,
-          "locationWebflowID": "\"5fa9906efd07cd44bc26e430\"",
-          "lon": 10.51828961,
-          "mapLink": "http://maps.google.com/?q=59.8920805,59.7463906,10.5182896,10.389261",
-          "memberName": "Pinsekirken Sandvika",
-          "name": "Pinsekirken Sandvika"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -97.4882619,
             35.2645854
           ],
@@ -1802,7 +1782,7 @@
         },
         "id": "recseTYdPOzmBcM6C",
         "properties": {
-          "address": "4007 Pascagoula Street",
+          "address": "4007 Pascagoula Street, Pascagoula, MS 39567",
           "lat": 30.3743459,
           "locationWebflowID": "\"60035c646c3e51f2852e9c6b\"",
           "lon": -88.5520839,
