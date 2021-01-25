@@ -186,22 +186,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "rec7K0Y3Te6Rwp4IL",
-        "properties": {
-          "address": "www.wake.church",
-          "lat": 30.1705878,
-          "locationWebflowID": "\"60077f44766b3e523c472dfc\"",
-          "mapLink": "http://maps.google.com/?q=30.1705878,",
-          "memberName": "Wake Church",
-          "memberReference": [
-            "rectB4hXzNbXNxefy"
-          ],
-          "name": "Wake Church"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -96.8429726,
