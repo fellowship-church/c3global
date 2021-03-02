@@ -2005,29 +2005,6 @@
       {
         "geometry": {
           "coordinates": [
-            -80.3029425,
-            25.7045002
-          ],
-          "type": "Point"
-        },
-        "id": "recz26Z9hvYvNbipA",
-        "properties": {
-          "address": "6767 Sunset Dr (72nd Street) South Miami, FL 33143",
-          "lat": 25.7045002,
-          "locationWebflowID": "\"5fa86b0890f7751b24a75d21\"",
-          "lon": -80.3029425,
-          "mapLink": "http://maps.google.com/?q=25.7045002,-80.3029425",
-          "memberName": "Fellowship Church",
-          "memberReference": [
-            "rechWiCRkSErwiRJK"
-          ],
-          "name": "Fellowship Church - Miami, FL"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -97.6771996,
             30.494986
           ],
