@@ -556,29 +556,6 @@
       {
         "geometry": {
           "coordinates": [
-            -95.884659,
-            36.0115757
-          ],
-          "type": "Point"
-        },
-        "id": "recENfgQ791YmdcoA",
-        "properties": {
-          "address": "10441 S Regal Blvd. Tulsa, OK 74133",
-          "lat": 36.0115757,
-          "locationWebflowID": "\"5fa99b1d6ff64afc40228182\"",
-          "lon": -95.884659,
-          "mapLink": "http://maps.google.com/?q=36.0115757,-95.884659",
-          "memberName": "Transformation Church",
-          "memberReference": [
-            "recxVqtVAgjRmfq5H"
-          ],
-          "name": "Transformation Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -95.4981009,
             29.7567006
           ],
