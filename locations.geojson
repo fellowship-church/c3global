@@ -165,6 +165,29 @@
       {
         "geometry": {
           "coordinates": [
+            -92.24888,
+            42.492786
+          ],
+          "type": "Point"
+        },
+        "id": "rec6vdP8hC8WjA5DK",
+        "properties": {
+          "address": "Waterloo, Iowa",
+          "lat": 42.492786,
+          "locationWebflowID": "\"604264c9405807ef5b4c5a21\"",
+          "lon": -92.24888,
+          "mapLink": "http://maps.google.com/?q=42.492786,",
+          "memberName": "Generations Church",
+          "memberReference": [
+            "rec8xyHk4oAF2o9lC"
+          ],
+          "name": "Generations Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -80.3076873,
             25.8748947
           ],
