@@ -947,6 +947,29 @@
       {
         "geometry": {
           "coordinates": [
+            -122.2754627,
+            46.8708544
+          ],
+          "type": "Point"
+        },
+        "id": "recSjVZftu0whvRAL",
+        "properties": {
+          "address": "604 Williams CT W, Eatonville, WA 98328",
+          "lat": 46.8708544,
+          "locationWebflowID": "\"60468e4effa73f7db9d552b4\"",
+          "lon": -122.2754627,
+          "mapLink": "http://maps.google.com/?q=46.8708544,",
+          "memberName": "CenterPoint",
+          "memberReference": [
+            "recrQl78lAj7nCAjl"
+          ],
+          "name": "CenterPoint"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.0995278,
             30.3857454
           ],
