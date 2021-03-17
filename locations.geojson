@@ -1039,29 +1039,6 @@
       {
         "geometry": {
           "coordinates": [
-            -85.9835281,
-            39.9706182
-          ],
-          "type": "Point"
-        },
-        "id": "recXvEDOA3mYclRDA",
-        "properties": {
-          "address": "10293 E 126th St Fishers, IN 46038",
-          "lat": 39.9706182,
-          "locationWebflowID": "\"5fa98f814fc84e01c55fd077\"",
-          "lon": -85.9835281,
-          "mapLink": "http://maps.google.com/?q=39.9706182,-85.9835281",
-          "memberName": "Hamilton Hills Church",
-          "memberReference": [
-            "recpJeNDTJo2I4LKD"
-          ],
-          "name": "Hamilton Hills Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -94.6972548,
             36.6675115
           ],
