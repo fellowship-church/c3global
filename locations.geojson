@@ -71,20 +71,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "rec51UrEb1h5vw97T",
-        "properties": {
-          "address": "351 Madison Ave S. Eatonville, WA 98328",
-          "locationWebflowID": "\"605cdc45413f9d34ff65eb92\"",
-          "memberName": "CenterPoint",
-          "memberReference": [
-            "recrQl78lAj7nCAjl"
-          ],
-          "name": "CenterPoint"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -97.4498132,
