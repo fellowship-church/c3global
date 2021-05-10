@@ -740,26 +740,6 @@
       {
         "geometry": {
           "coordinates": [
-            -97.9023529,
-            38.087314
-          ],
-          "type": "Point"
-        },
-        "id": "recJPodTUIOwX6jC5",
-        "properties": {
-          "address": "1410 East 30th Ave Hutchinson, KS 67502",
-          "lat": 38.087314,
-          "locationWebflowID": "\"5fa982d9ff0a3c04670ed96e\"",
-          "lon": -97.9023529,
-          "mapLink": "http://maps.google.com/?q=38.087314,-97.9023529",
-          "memberName": "CrossPoint Church",
-          "name": "CrossPoint Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -96.1239679,
             35.9884881
           ],
