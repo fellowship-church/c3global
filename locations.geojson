@@ -556,6 +556,29 @@
       {
         "geometry": {
           "coordinates": [
+            -88.1044998,
+            44.4317802
+          ],
+          "type": "Point"
+        },
+        "id": "recD3ZrbW7qCxRekb",
+        "properties": {
+          "address": "1551 Lawrence dr. De Pere, WI 54115",
+          "lat": 44.4317802,
+          "locationWebflowID": "\"60dfa629de913920e479b2b6\"",
+          "lon": -88.1044998,
+          "mapLink": "http://maps.google.com/?q=44.4317802,",
+          "memberName": "Life Church Green Bay",
+          "memberReference": [
+            "recN16oG76MEssPop"
+          ],
+          "name": "Green Bay  - Life Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -80.7846189,
             40.0692162
           ],
@@ -1631,6 +1654,29 @@
             "recyLG8ttXGCuXwfk"
           ],
           "name": "Northbend Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -84.34956299999999,
+            34.0791282
+          ],
+          "type": "Point"
+        },
+        "id": "recmZ2eGCf64fMmCd",
+        "properties": {
+          "address": "410 Rucker Road Alpharetta Georgia 30004",
+          "lat": 34.0791282,
+          "locationWebflowID": "\"60df659aa601cb82c59ee648\"",
+          "lon": -84.34956299999999,
+          "mapLink": "http://maps.google.com/?q=34.0791282,",
+          "memberName": "Restoration Church",
+          "memberReference": [
+            "recWD0rKBVnnwYPQL"
+          ],
+          "name": "Restoration Church"
         },
         "type": "Feature"
       },
