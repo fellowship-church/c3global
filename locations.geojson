@@ -130,7 +130,7 @@
           "lat": 37.5293714,
           "locationWebflowID": "\"60637816c418d469489b31d3\"",
           "lon": -121.9575095,
-          "mapLink": "http://maps.google.com/?q=37.5293714,",
+          "mapLink": "http://maps.google.com/?q=37.5293714,-121.95750950",
           "memberName": "Echo.Church",
           "memberReference": [
             "recnN6gUptlnvP7Dm"
@@ -567,7 +567,7 @@
           "lat": 44.4317802,
           "locationWebflowID": "\"60dfa629de913920e479b2b6\"",
           "lon": -88.1044998,
-          "mapLink": "http://maps.google.com/?q=44.4317802,",
+          "mapLink": "http://maps.google.com/?q=44.4317802,-88.10449980",
           "memberName": "Life Church Green Bay",
           "memberReference": [
             "recN16oG76MEssPop"
@@ -843,7 +843,7 @@
           "lat": 37.2755122,
           "locationWebflowID": "\"60637894701ec0ec2706ba0c\"",
           "lon": -121.8241126,
-          "mapLink": "http://maps.google.com/?q=37.2755122,",
+          "mapLink": "http://maps.google.com/?q=37.2755122,-121.82411260",
           "memberName": "Echo.Church",
           "memberReference": [
             "recnN6gUptlnvP7Dm"
@@ -935,7 +935,7 @@
           "lat": 37.3815007,
           "locationWebflowID": "\"60637714222942590bdd14a5\"",
           "lon": -121.893958,
-          "mapLink": "http://maps.google.com/?q=37.3815007,",
+          "mapLink": "http://maps.google.com/?q=37.3815007,-121.89395800",
           "memberName": "Echo.Church",
           "memberReference": [
             "recnN6gUptlnvP7Dm"
@@ -1004,7 +1004,7 @@
           "lat": 46.8708544,
           "locationWebflowID": "\"60468e4effa73f7db9d552b4\"",
           "lon": -122.2754627,
-          "mapLink": "http://maps.google.com/?q=46.8708544,",
+          "mapLink": "http://maps.google.com/?q=46.8709717344755,-122.27556000158043",
           "memberName": "CenterPoint",
           "memberReference": [
             "recrQl78lAj7nCAjl"
@@ -1510,7 +1510,7 @@
           "lat": 30.6638719,
           "locationWebflowID": "\"60ec96a25ed5280ddc89f7c5\"",
           "lon": -88.1256306,
-          "mapLink": "http://maps.google.com/?q=30.6638719,",
+          "mapLink": "http://maps.google.com/?q=30.6638719,-88.12563060",
           "memberName": "Harvest Church - Mobile, AL",
           "memberReference": [
             "recbtXlFi3vSnrcI6"
@@ -1694,7 +1694,7 @@
           "lat": 34.0791282,
           "locationWebflowID": "\"60df659aa601cb82c59ee648\"",
           "lon": -84.34956299999999,
-          "mapLink": "http://maps.google.com/?q=34.0791282,",
+          "mapLink": "http://maps.google.com/?q=34.0791282,-84.34956300",
           "memberName": "Restoration Church",
           "memberReference": [
             "recWD0rKBVnnwYPQL"
@@ -1878,7 +1878,7 @@
           "lat": 37.3809631,
           "locationWebflowID": "\"606377775d90ed09b0b2c6e2\"",
           "lon": -121.9985773,
-          "mapLink": "http://maps.google.com/?q=37.3809631,",
+          "mapLink": "http://maps.google.com/?q=37.3809631,-121.99857730",
           "memberName": "Echo.Church",
           "memberReference": [
             "recnN6gUptlnvP7Dm"
@@ -1901,7 +1901,7 @@
           "lat": 30.3743459,
           "locationWebflowID": "\"60035c646c3e51f2852e9c6b\"",
           "lon": -88.5520839,
-          "mapLink": "http://maps.google.com/?q=30.3743459,",
+          "mapLink": "http://maps.google.com/?q=30.374558774079176,-88.55231844422315",
           "memberName": "Action Church - Pascagoula, MS",
           "memberReference": [
             "reckdFU7jOWZQGCgu"
