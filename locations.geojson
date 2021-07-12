@@ -1499,6 +1499,29 @@
       {
         "geometry": {
           "coordinates": [
+            -88.1256306,
+            30.6638719
+          ],
+          "type": "Point"
+        },
+        "id": "reciYjHKwccf3QGrW",
+        "properties": {
+          "address": "1275 East Interstate 65 Service Rd S, Mobile, AL 36606",
+          "lat": 30.6638719,
+          "locationWebflowID": "\"60ec96a25ed5280ddc89f7c5\"",
+          "lon": -88.1256306,
+          "mapLink": "http://maps.google.com/?q=30.6638719,",
+          "memberName": "Harvest Church - Mobile, AL",
+          "memberReference": [
+            "recbtXlFi3vSnrcI6"
+          ],
+          "name": "Harvest Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.03636019999999,
             28.86835139999999
           ],
