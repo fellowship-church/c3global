@@ -199,7 +199,7 @@
           "lat": 42.492786,
           "locationWebflowID": "\"604264c9405807ef5b4c5a21\"",
           "lon": -92.24888,
-          "mapLink": "http://maps.google.com/?q=42.492786,",
+          "mapLink": "http://maps.google.com/?q=42.492786,-92.24888000",
           "memberName": "Generations Church",
           "memberReference": [
             "rec8xyHk4oAF2o9lC"
