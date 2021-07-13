@@ -2108,11 +2108,20 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -81.20035845769635,
+            28.556046737631206
+          ],
+          "type": "Point"
+        },
         "id": "recm0hUixAdKZ8jXj",
         "properties": {
           "address": "541 N Alafaya Trail, Orlando, FL 32828",
+          "lat": 28.556046737631206,
           "locationWebflowID": "\"60edc2a11aed697f6fa57a93\"",
+          "lon": -81.20035845769635,
+          "mapLink": "http://maps.google.com/?q=28.55604674,-81.20035846",
           "memberName": "Innovation Church",
           "memberReference": [
             "recsjdtA5YRiIiU1u"
