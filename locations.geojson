@@ -860,11 +860,20 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -81.5468729,
+            39.2933679
+          ],
+          "type": "Point"
+        },
         "id": "recFsJeEaj5V1xd6B",
         "properties": {
           "address": "3417 Murdoch Ave, Parkersburg, WV 26101",
+          "lat": 39.2933679,
           "locationWebflowID": "\"60edc40fec08bb05a264e9b0\"",
+          "lon": -81.5468729,
+          "mapLink": "http://maps.google.com/?q=39.2933679,-81.5468729",
           "memberName": "The Warehouse Church",
           "memberReference": [
             "recBFjcRM4kyH1XJJ"
