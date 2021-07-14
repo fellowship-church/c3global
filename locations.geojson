@@ -1812,10 +1812,12 @@
           "mapLink": "http://maps.google.com/?q=38.80362736,-94.90778397",
           "memberName": "New Life Community Church",
           "memberReference": [
-            "recECpLNcPRNKTwvG"
+            "recECpLNcPRNKTwvG",
+            "rec7YnTZRCtLqhztV"
           ],
           "memberWebflowID (from memberReference)": [
-            "5fa95f450c24a94701b384df"
+            "5fa95f450c24a94701b384df",
+            "60c0da59140c26dbae006129"
           ],
           "name": "New Life Community Church"
         },
