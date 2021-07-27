@@ -810,6 +810,32 @@
       {
         "geometry": {
           "coordinates": [
+            -81.3392968,
+            28.73437239999999
+          ],
+          "type": "Point"
+        },
+        "id": "recF2YA3OUYTHU4Lk",
+        "properties": {
+          "address": "580 Green Way Blvd Lake Mary, FL 32746",
+          "lat": 28.73437239999999,
+          "locationWebflowID": "\"60feec860993df3d0f0abc59\"",
+          "lon": -81.3392968,
+          "mapLink": "http://maps.google.com/?q=28.73437239999999,-81.3392968",
+          "memberName": "The Light House",
+          "memberReference": [
+            "rec16KTJyecHb69pd"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "60e5f8a89269dee049e85aee"
+          ],
+          "name": "The Light House - Meets at Lake Mary Branch Library"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.25367299999999,
             27.043111
           ],
@@ -1376,32 +1402,6 @@
             "609353e2f0abe0b5363f8843"
           ],
           "name": "The Bridge Fellowship"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -81.3679315,
-            28.7527918
-          ],
-          "type": "Point"
-        },
-        "id": "recUuOEb4f24LpKL8",
-        "properties": {
-          "address": "168 Villa Di Este Terrace UNIT 104, Lake Mary, FL 32746",
-          "lat": 28.7527918,
-          "locationWebflowID": "\"60edc41369accab6511334da\"",
-          "lon": -81.3679315,
-          "mapLink": "http://maps.google.com/?q=28.7527918,-81.3679315",
-          "memberName": "The Light House",
-          "memberReference": [
-            "rec16KTJyecHb69pd"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "60e5f8a89269dee049e85aee"
-          ],
-          "name": "The Light House"
         },
         "type": "Feature"
       },
@@ -2288,6 +2288,32 @@
             "5fa96806f66c9acfa0a8625c"
           ],
           "name": "Life Point - Lebanon, MO"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -98.0193749,
+            30.1978208
+          ],
+          "type": "Point"
+        },
+        "id": "recq0tQb8Tt5QlaRE",
+        "properties": {
+          "address": "4000 US-290, Dripping Springs, TX 78620",
+          "lat": 30.1978208,
+          "locationWebflowID": "\"60feedeba1af3b35f431e3bb\"",
+          "lon": -98.0193749,
+          "mapLink": "http://maps.google.com/?q=30.1978208,-98.0193749",
+          "memberName": "Sunset Canyon Baptist Church",
+          "memberReference": [
+            "rec8O7Jr4MFoOj2H3"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "60f885c1941725ae2df9c025"
+          ],
+          "name": "Sunset Canyon Baptist Church"
         },
         "type": "Feature"
       },
