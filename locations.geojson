@@ -2788,6 +2788,32 @@
       {
         "geometry": {
           "coordinates": [
+            -112.1771395,
+            33.5109803
+          ],
+          "type": "Point"
+        },
+        "id": "recyWxHbjeVuiPP0c",
+        "properties": {
+          "address": "5035 N 55th ave Glendale AZ 85301",
+          "lat": 33.5109803,
+          "locationWebflowID": "\"61064f2f955418ce09c1be24\"",
+          "lon": -112.1771395,
+          "mapLink": "http://maps.google.com/?q=33.5109803,-112.1771395",
+          "memberName": "The Experience Family Worship Center",
+          "memberReference": [
+            "recrHSkghW6cfd1by"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "6105e48524b2150abf88eec3"
+          ],
+          "name": "The Experience Family Worship Center"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.35077919999999,
             28.1678069
           ],
