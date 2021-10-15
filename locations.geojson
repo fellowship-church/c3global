@@ -1174,6 +1174,32 @@
       {
         "geometry": {
           "coordinates": [
+            -97.5305297,
+            35.3472277
+          ],
+          "type": "Point"
+        },
+        "id": "recOpi8fXEBVyStlz",
+        "properties": {
+          "address": "12121 S. Western A5, Oklahoma City, OK 73173",
+          "lat": 35.3472277,
+          "locationWebflowID": "\"6168a707643a8e837d2a63d2\"",
+          "lon": -97.5305297,
+          "mapLink": "http://maps.google.com/?q=35.3472277,-97.5305297",
+          "memberName": "The Oaks",
+          "memberReference": [
+            "recjhLICErqmtThTL"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "616891562d5ca810b2724b46"
+          ],
+          "name": "The Oaks"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -95.8453864,
             29.70480939999999
           ],
