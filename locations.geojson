@@ -4,6 +4,32 @@
       {
         "geometry": {
           "coordinates": [
+            -95.2858574,
+            29.7888953
+          ],
+          "type": "Point"
+        },
+        "id": "rec0khbCDLjn2VFx7",
+        "properties": {
+          "address": "14203 WALLISVILLE RD. HOUSTON,TEXAS 77-49",
+          "lat": 29.7888953,
+          "locationWebflowID": "\"617c1a242d1f6a401db42d3a\"",
+          "lon": -95.2858574,
+          "mapLink": "http://maps.google.com/?q=29.7888953,-95.2858574",
+          "memberName": "Fellowship of Purpose Church",
+          "memberReference": [
+            "rec0h8yJeCaCNJx7Y"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "61799d5b56ffb9a1ce1085fd"
+          ],
+          "name": "THE FELLOWSHIP OF PURPOSE CHURCH"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.8427449,
             30.0650372
           ],
