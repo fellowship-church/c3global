@@ -1122,6 +1122,32 @@
       {
         "geometry": {
           "coordinates": [
+            -80.576622,
+            24.958371
+          ],
+          "type": "Point"
+        },
+        "id": "recLMdPoclICj6WBt",
+        "properties": {
+          "address": "86450 Overseas Hwy",
+          "lat": 24.958371,
+          "locationWebflowID": "\"61853e692f6f7731c4dd8b3b\"",
+          "lon": -80.576622,
+          "mapLink": "http://maps.google.com/?q=24.958371,-80.576622",
+          "memberName": "Bluewater In The Keys Community Church",
+          "memberReference": [
+            "rec8iQvaDT4CboAOD"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "6183f2bf4d7c9e60cc8ab913"
+          ],
+          "name": "Islamorada, Florida"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -73.567256,
             45.5016889
           ],
