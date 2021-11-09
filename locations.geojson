@@ -4,6 +4,30 @@
       {
         "geometry": {
           "coordinates": [
+            -122.5893708,
+            45.6245625
+          ],
+          "type": "Point"
+        },
+        "id": "rec0kD1gRmycxkW2C",
+        "properties": {
+          "address": "8100 E Mill Plain Blvd, Vancouver, WA 98664",
+          "lat": 45.6245625,
+          "lon": -122.5893708,
+          "mapLink": "http://maps.google.com/?q=45.6245625,-122.5893708",
+          "memberReference": [
+            "recTWhnVSwdXEtXkP"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "614cb417b9e76c35be48c61b"
+          ],
+          "name": "Real Life Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -95.2858574,
             29.7888953
           ],
@@ -1129,7 +1153,7 @@
         },
         "id": "recLMdPoclICj6WBt",
         "properties": {
-          "address": "86450 Overseas Hwy",
+          "address": "86450 Overseas Hwy, Islamorada, FL 33036",
           "lat": 24.958371,
           "locationWebflowID": "\"61853e692f6f7731c4dd8b3b\"",
           "lon": -80.576622,
@@ -1141,7 +1165,7 @@
           "memberWebflowID (from memberReference)": [
             "6183f2bf4d7c9e60cc8ab913"
           ],
-          "name": "Islamorada, Florida"
+          "name": "Bluewater In The Keys Community Church"
         },
         "type": "Feature"
       },
@@ -1904,6 +1928,30 @@
       {
         "geometry": {
           "coordinates": [
+            -89.9449968,
+            38.5488855
+          ],
+          "type": "Point"
+        },
+        "id": "recf2ewqPlNuchr8L",
+        "properties": {
+          "address": "2241 Country Rd, Belleville, IL 62221",
+          "lat": 38.5488855,
+          "lon": -89.9449968,
+          "mapLink": "http://maps.google.com/?q=38.5488855,-89.9449968",
+          "memberReference": [
+            "recjtDLdliFnCHgm7"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "616ac74513e3a9d777859e56"
+          ],
+          "name": "Faith Family Life Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.9126503,
             30.3106277
           ],
@@ -2158,6 +2206,30 @@
             "6081856f43020b1c25a1f2b4"
           ],
           "name": "Liberty Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -81.02556059999999,
+            29.1772676
+          ],
+          "type": "Point"
+        },
+        "id": "reclNfnexL4Nxw2vK",
+        "properties": {
+          "address": "920 Beville Rd, Daytona Beach, FL 32119",
+          "lat": 29.1772676,
+          "lon": -81.02556059999999,
+          "mapLink": "http://maps.google.com/?q=29.1772676,-81.02556059999999",
+          "memberReference": [
+            "recqrL8ibl99XSA3q"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "611c2bcf124463c861a41f86"
+          ],
+          "name": "Relevant Church"
         },
         "type": "Feature"
       },
