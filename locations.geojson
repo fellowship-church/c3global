@@ -184,32 +184,6 @@
       {
         "geometry": {
           "coordinates": [
-            -121.9575095,
-            37.5293714
-          ],
-          "type": "Point"
-        },
-        "id": "rec5YacbZN1NE4C1h",
-        "properties": {
-          "address": "41386 Fremont Blvd, Fremont, CA 94538",
-          "lat": 37.5293714,
-          "locationWebflowID": "\"60637816c418d469489b31d3\"",
-          "lon": -121.9575095,
-          "mapLink": "http://maps.google.com/?q=37.5293714,-121.95750950",
-          "memberName": "Echo.Church",
-          "memberReference": [
-            "recnN6gUptlnvP7Dm"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "6063509751501094db993371"
-          ],
-          "name": "Echo.Church - Fremont Campus"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -90.1073864,
             38.9223337
           ],
@@ -1120,32 +1094,6 @@
       {
         "geometry": {
           "coordinates": [
-            -121.8241126,
-            37.2755122
-          ],
-          "type": "Point"
-        },
-        "id": "recKhQ54woo9iJSr0",
-        "properties": {
-          "address": "100 Skyway Dr #130, San Jose, CA 95111",
-          "lat": 37.2755122,
-          "locationWebflowID": "\"60637894701ec0ec2706ba0c\"",
-          "lon": -121.8241126,
-          "mapLink": "http://maps.google.com/?q=37.2755122,-121.82411260",
-          "memberName": "Echo.Church",
-          "memberReference": [
-            "recnN6gUptlnvP7Dm"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "6063509751501094db993371"
-          ],
-          "name": "Echo.Church - South San Jose Campus (Valley Christian School)"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -80.576622,
             24.958371
           ],
@@ -1296,32 +1244,6 @@
             "5fa9671ae12817afd4050692"
           ],
           "name": "Second Baptist Church - 1463"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -121.893958,
-            37.3815007
-          ],
-          "type": "Point"
-        },
-        "id": "recPwaFAGKKRJYQQY",
-        "properties": {
-          "address": "1180 Murphy Ave, San Jose, CA 95123",
-          "lat": 37.3815007,
-          "locationWebflowID": "\"60637714222942590bdd14a5\"",
-          "lon": -121.893958,
-          "mapLink": "http://maps.google.com/?q=37.3815007,-121.89395800",
-          "memberName": "Echo.Church",
-          "memberReference": [
-            "recnN6gUptlnvP7Dm"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "6063509751501094db993371"
-          ],
-          "name": "Echo.Church - North San Jose Campus"
         },
         "type": "Feature"
       },
@@ -2418,32 +2340,6 @@
       {
         "geometry": {
           "coordinates": [
-            -92.6626366,
-            37.6827328
-          ],
-          "type": "Point"
-        },
-        "id": "recpH8s3ZgKcE4yCj",
-        "properties": {
-          "address": "195 N. Washington Ave. Lebanon, MO 65536",
-          "lat": 37.6827328,
-          "locationWebflowID": "\"5fa99aa5e9d973ab55abd1d0\"",
-          "lon": -92.6626366,
-          "mapLink": "http://maps.google.com/?q=37.6827328,-92.6626366",
-          "memberName": "Life Point- Lebanon",
-          "memberReference": [
-            "recd1tXhPkSWAcuCG"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa96806f66c9acfa0a8625c"
-          ],
-          "name": "Life Point - Lebanon, MO"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -98.0193749,
             30.1978208
           ],
@@ -2489,7 +2385,7 @@
           "memberWebflowID (from memberReference)": [
             "5fa972a0302b78014fcd1bde"
           ],
-          "name": "Cathedral of Praise"
+          "name": "City Church"
         },
         "type": "Feature"
       },
@@ -2568,32 +2464,6 @@
             "5fa971290f66d15173b149e8"
           ],
           "name": "Mosaic Community Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -121.9985773,
-            37.3809631
-          ],
-          "type": "Point"
-        },
-        "id": "recrn1rdo51QB0deK",
-        "properties": {
-          "address": "1145 East Arques, Sunnyvale, CA 94085",
-          "lat": 37.3809631,
-          "locationWebflowID": "\"606377775d90ed09b0b2c6e2\"",
-          "lon": -121.9985773,
-          "mapLink": "http://maps.google.com/?q=37.3809631,-121.99857730",
-          "memberName": "Echo.Church",
-          "memberReference": [
-            "recnN6gUptlnvP7Dm"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "6063509751501094db993371"
-          ],
-          "name": "Echo.Church - Sunnyvale Campus"
         },
         "type": "Feature"
       },
