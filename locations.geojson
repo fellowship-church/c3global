@@ -1328,32 +1328,6 @@
       {
         "geometry": {
           "coordinates": [
-            -84.5452749,
-            38.0758334
-          ],
-          "type": "Point"
-        },
-        "id": "recSrMDevEnqLrgJP",
-        "properties": {
-          "address": "133 Trade St, Lexington, KY 40511",
-          "lat": 38.0758334,
-          "locationWebflowID": "\"60edff303da5784d347c1469\"",
-          "lon": -84.5452749,
-          "mapLink": "http://maps.google.com/?q=38.0758334,-84.5452749",
-          "memberName": "Motion Church",
-          "memberReference": [
-            "rec4H7gK6ZqfJVjt6"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "60aff5750350897ec597d0ed"
-          ],
-          "name": "Motion Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -87.0995278,
             30.3857454
           ],
@@ -2024,32 +1998,6 @@
             "5fa970b950bcc856a49bbcf9"
           ],
           "name": "Lifepointe Fellowship - Victoria, TX"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -86.6687422,
-            39.3527501
-          ],
-          "type": "Point"
-        },
-        "id": "recipNhyAtAzQ2rK2",
-        "properties": {
-          "address": "5392 State Highway 67 Gosport, IN 47433",
-          "lat": 39.3527501,
-          "locationWebflowID": "\"5fa9925a10e541a15d906f85\"",
-          "lon": -86.6687422,
-          "mapLink": "http://maps.google.com/?q=39.3527501,-86.6687422",
-          "memberName": "Lighthouse Fellowship Church",
-          "memberReference": [
-            "recGeFIWKpu9kPXDJ"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa971ad84bd181604ced7e2"
-          ],
-          "name": "Lighthouse Fellowship Church"
         },
         "type": "Feature"
       },
