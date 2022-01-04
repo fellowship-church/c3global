@@ -2626,32 +2626,6 @@
       {
         "geometry": {
           "coordinates": [
-            -84.5452749,
-            38.0758334
-          ],
-          "type": "Point"
-        },
-        "id": "recwMkwUw2SmRXJvB",
-        "properties": {
-          "address": "133 Trade St,\n  Lexington, KY 40511",
-          "lat": 38.0758334,
-          "locationWebflowID": "\"60edc3a2a585d506abe86057\"",
-          "lon": -84.5452749,
-          "mapLink": "http://maps.google.com/?q=38.0758334,-84.5452749",
-          "memberName": "Motion Church",
-          "memberReference": [
-            "receEQhwR4roZNrBO"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa97298c76917a284c549b5"
-          ],
-          "name": "Motion Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -74.6618583,
             39.4049455
           ],
