@@ -730,6 +730,32 @@
       {
         "geometry": {
           "coordinates": [
+            -96.98476629999999,
+            32.8967013
+          ],
+          "type": "Point"
+        },
+        "id": "recCw2fw5GzEFVEcp",
+        "properties": {
+          "address": "3100 Premier Dr. Suite 204 Irving, Texas 75063",
+          "lat": 32.8967013,
+          "locationWebflowID": "\"61e5f05c273a115e3fe94b58\"",
+          "lon": -96.98476629999999,
+          "mapLink": "http://maps.google.com/?q=32.8967013,-96.98476629999999",
+          "memberName": "Iglesia Vida Dallas",
+          "memberReference": [
+            "recJKGREyVQV9VEbG"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "61e5967a0a090c17531bfbeb"
+          ],
+          "name": "Iglesia Vida Dallas"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -88.1044998,
             44.4317802
           ],
