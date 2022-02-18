@@ -938,6 +938,32 @@
       {
         "geometry": {
           "coordinates": [
+            -97.47845679999999,
+            35.1916072
+          ],
+          "type": "Point"
+        },
+        "id": "recGGZD9aPzUlRCVe",
+        "properties": {
+          "address": "2300 24th Ave sw Norman, Ok",
+          "lat": 35.1916072,
+          "locationWebflowID": "\"620e74fa7e06d76a198815c5\"",
+          "lon": -97.47845679999999,
+          "mapLink": "http://maps.google.com/?q=35.1916072,-97.47845679999999",
+          "memberName": "GO Church",
+          "memberReference": [
+            "recupcmOnBKpj01IH"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "61f1ca21b4e1bd18d2c608ce"
+          ],
+          "name": "GO Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.2124554,
             32.9351181
           ],
@@ -2308,6 +2334,32 @@
             "5fa9602add5ba548cda376f7"
           ],
           "name": "Change Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -83.595759,
+            43.08141
+          ],
+          "type": "Point"
+        },
+        "id": "recnW604LWoaIseMj",
+        "properties": {
+          "address": "5162 N Belsay Rd, Flint MI 48506",
+          "lat": 43.08141,
+          "locationWebflowID": "\"620e767205ea18190dfbc3f8\"",
+          "lon": -83.595759,
+          "mapLink": "http://maps.google.com/?q=43.08141,-83.595759",
+          "memberName": "Hopewell Church",
+          "memberReference": [
+            "recKryNHcZnef1u6q"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "620e6829e9508a3c1be16bde"
+          ],
+          "name": "Hopewell Church"
         },
         "type": "Feature"
       },
