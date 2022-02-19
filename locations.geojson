@@ -2392,6 +2392,32 @@
       {
         "geometry": {
           "coordinates": [
+            -81.4007616,
+            28.4198623
+          ],
+          "type": "Point"
+        },
+        "id": "recoJBLZSiLXhToyA",
+        "properties": {
+          "address": "9535 Satellite Blvd suite 120 Orlando FL 32837",
+          "lat": 28.4198623,
+          "locationWebflowID": "\"620f28520acf3f935b063ce8\"",
+          "lon": -81.4007616,
+          "mapLink": "http://maps.google.com/?q=28.4198623,-81.4007616",
+          "memberName": "GFC Orlando",
+          "memberReference": [
+            "recYvnu3QZDR3Jh7f"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "620eecc1f733d242f7b73f6f"
+          ],
+          "name": "GFC Orlando"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -98.0193749,
             30.1978208
           ],
@@ -2802,6 +2828,32 @@
             "5fa9652d7afaf7e7dc9ad932"
           ],
           "name": "Northrock Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -88.4103557,
+            33.5206373
+          ],
+          "type": "Point"
+        },
+        "id": "recxgkLr8SnE0UBr0",
+        "properties": {
+          "address": "2201 Military Road - Columbus MS - 39705",
+          "lat": 33.5206373,
+          "locationWebflowID": "\"620f24604b8be97df972de25\"",
+          "lon": -88.4103557,
+          "mapLink": "http://maps.google.com/?q=33.5206373,-88.4103557",
+          "memberName": "The Assembly",
+          "memberReference": [
+            "rec4Fwiawa41jSOva"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "620eecc1eb9cb74a8fc3ffbf"
+          ],
+          "name": "The Assembly Columbus"
         },
         "type": "Feature"
       },
