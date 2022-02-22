@@ -1614,6 +1614,32 @@
       {
         "geometry": {
           "coordinates": [
+            -81.2163391,
+            28.5454507
+          ],
+          "type": "Point"
+        },
+        "id": "recZEsXLqpH9dLkew",
+        "properties": {
+          "address": "11602 Lake Underhill Rd, Orlando FL 32825",
+          "lat": 28.5454507,
+          "locationWebflowID": "\"6213db3e415d8e175556701b\"",
+          "lon": -81.2163391,
+          "mapLink": "http://maps.google.com/?q=28.5454507,-81.2163391",
+          "memberName": "C3 Church",
+          "memberReference": [
+            "recUIFi5U5u0vh3Xu"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "6213ba6ed135b0ebae1b464c"
+          ],
+          "name": "C3 Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -84.2669885,
             39.3523566
           ],
