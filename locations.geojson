@@ -54,6 +54,32 @@
       {
         "geometry": {
           "coordinates": [
+            -94.16478599999999,
+            36.1904363
+          ],
+          "type": "Point"
+        },
+        "id": "rec28yYGGkweaMzzM",
+        "properties": {
+          "address": "589 White Rd.  Springdale, AR 72762",
+          "lat": 36.1904363,
+          "locationWebflowID": "\"621ea0c3fc103325c73e2dbc\"",
+          "lon": -94.16478599999999,
+          "mapLink": "http://maps.google.com/?q=36.1904363,-94.16478599999999",
+          "memberName": "The City Church NWA",
+          "memberReference": [
+            "recAoMjrXhpy8vB2W"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "62180be9024788c5725b894f"
+          ],
+          "name": "The City Church NWA"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.8427449,
             30.0650372
           ],
@@ -308,6 +334,32 @@
             "5fa868dd658fad6d07fab0b0"
           ],
           "name": "Fellowship Church - Frisco, TX"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -81.725632,
+            28.8041579
+          ],
+          "type": "Point"
+        },
+        "id": "rec8Ouo0tPh5SGipO",
+        "properties": {
+          "address": "Tavares, Florida",
+          "lat": 28.8041579,
+          "locationWebflowID": "\"621d6569cc2f857ee23899bd\"",
+          "lon": -81.725632,
+          "mapLink": "http://maps.google.com/?q=28.8041579,-81.725632",
+          "memberName": "Liberty Church",
+          "memberReference": [
+            "recL9aJqSZUh20vSc"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "62180be7dde211c85bdc636e"
+          ],
+          "name": "Liberty Church"
         },
         "type": "Feature"
       },
