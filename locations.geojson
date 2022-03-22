@@ -28,32 +28,6 @@
       {
         "geometry": {
           "coordinates": [
-            -95.2858574,
-            29.7888953
-          ],
-          "type": "Point"
-        },
-        "id": "rec0khbCDLjn2VFx7",
-        "properties": {
-          "address": "14203 WALLISVILLE RD. HOUSTON,TEXAS 77-49",
-          "lat": 29.7888953,
-          "locationWebflowID": "\"617c1a242d1f6a401db42d3a\"",
-          "lon": -95.2858574,
-          "mapLink": "http://maps.google.com/?q=29.7888953,-95.2858574",
-          "memberName": "Fellowship of Purpose Church",
-          "memberReference": [
-            "rec0h8yJeCaCNJx7Y"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "61799d5b56ffb9a1ce1085fd"
-          ],
-          "name": "THE FELLOWSHIP OF PURPOSE CHURCH"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -94.16478599999999,
             36.1904363
           ],
@@ -386,32 +360,6 @@
             "5fa970b976da660d27babbc9"
           ],
           "name": "One Place Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -94.7618375,
-            38.92661289999999
-          ],
-          "type": "Point"
-        },
-        "id": "recALdlqzWajPQ9Xj",
-        "properties": {
-          "address": "15101 College Blvd. Lenexa, KS 66219",
-          "lat": 38.92661289999999,
-          "locationWebflowID": "\"5fa9972610339787083622a9\"",
-          "lon": -94.7618375,
-          "mapLink": "http://maps.google.com/?q=38.92661289999999,-94.7618375",
-          "memberName": "Nexus Church",
-          "memberReference": [
-            "rec9HYgB8mnLsB2GQ"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa9625229802ac1752b9ff2"
-          ],
-          "name": "Nexus Church"
         },
         "type": "Feature"
       },
@@ -2392,32 +2340,6 @@
       {
         "geometry": {
           "coordinates": [
-            -96.8916119,
-            33.0915929
-          ],
-          "type": "Point"
-        },
-        "id": "recnaz287TpU1ZZxE",
-        "properties": {
-          "address": "4700 Nash Dr. The Colony, Tx. 75056",
-          "lat": 33.0915929,
-          "locationWebflowID": "\"6205a1c258d14374b255192d\"",
-          "lon": -96.8916119,
-          "mapLink": "http://maps.google.com/?q=33.0915929,-96.8916119",
-          "memberName": "Odeelia Church",
-          "memberReference": [
-            "recUsKKKIuD7Vchz6"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "620598fe504af46b7552d3d1"
-          ],
-          "name": "Odeelia Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -81.4007616,
             28.4198623
           ],
@@ -2464,32 +2386,6 @@
             "60f885c1941725ae2df9c025"
           ],
           "name": "Sunset Canyon Baptist Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -96.8916119,
-            33.0915929
-          ],
-          "type": "Point"
-        },
-        "id": "recr0tYsFtA0tLOxm",
-        "properties": {
-          "address": "4700 Nash Dr. The Colony, Tx. 75007",
-          "lat": 33.0915929,
-          "locationWebflowID": "\"62059cf7d5beb17d6803c690\"",
-          "lon": -96.8916119,
-          "mapLink": "http://maps.google.com/?q=33.0915929,-96.8916119",
-          "memberName": "Odeelia Church",
-          "memberReference": [
-            "recUsKKKIuD7Vchz6"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "620598fe504af46b7552d3d1"
-          ],
-          "name": "Odeelia Church"
         },
         "type": "Feature"
       },
@@ -2932,32 +2828,6 @@
             "5fa970c01d7727434980a2bc"
           ],
           "name": "Roots Church"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -112.1771395,
-            33.5109803
-          ],
-          "type": "Point"
-        },
-        "id": "recyWxHbjeVuiPP0c",
-        "properties": {
-          "address": "5035 N 55th ave Glendale AZ 85301",
-          "lat": 33.5109803,
-          "locationWebflowID": "\"61064f2f955418ce09c1be24\"",
-          "lon": -112.1771395,
-          "mapLink": "http://maps.google.com/?q=33.5109803,-112.1771395",
-          "memberName": "The Experience Family Worship Center",
-          "memberReference": [
-            "recrHSkghW6cfd1by"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "6105e48524b2150abf88eec3"
-          ],
-          "name": "The Experience Family Worship Center"
         },
         "type": "Feature"
       },
