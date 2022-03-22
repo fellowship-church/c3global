@@ -184,32 +184,6 @@
       {
         "geometry": {
           "coordinates": [
-            -82.5363389,
-            27.3371968
-          ],
-          "type": "Point"
-        },
-        "id": "rec5NTc2LbKtZacGx",
-        "properties": {
-          "address": "1661 Main Street Sarasota, FL 34236",
-          "lat": 27.3371968,
-          "locationWebflowID": "\"5fa9916975be081b6facdef8\"",
-          "lon": -82.5363389,
-          "mapLink": "http://maps.google.com/?q=27.3371968,-82.5363389",
-          "memberName": "First Baptist Sarasota",
-          "memberReference": [
-            "recyjqaPMx1XeQywr"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa97299bfb0d569354caa6f"
-          ],
-          "name": "First Baptist Sarasota"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -90.1073864,
             38.9223337
           ],
@@ -938,32 +912,6 @@
       {
         "geometry": {
           "coordinates": [
-            -82.25367299999999,
-            27.043111
-          ],
-          "type": "Point"
-        },
-        "id": "recF2waYk6EhsXgbL",
-        "properties": {
-          "address": "13000 Tamiami Trl North Port, FL 34287",
-          "lat": 27.043111,
-          "locationWebflowID": "\"5fa86b273f3850530bac58e9\"",
-          "lon": -82.25367299999999,
-          "mapLink": "http://maps.google.com/?q=27.043111,-82.25367299999999",
-          "memberName": "Fellowship Church",
-          "memberReference": [
-            "rechWiCRkSErwiRJK"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa868dd658fad6d07fab0b0"
-          ],
-          "name": "Fellowship Church - North Port, FL"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -81.5468729,
             39.2933679
           ],
@@ -1348,32 +1296,6 @@
             "5fa9671ae12817afd4050692"
           ],
           "name": "Second Baptist Church - 1463"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -97.4882619,
-            35.2645854
-          ],
-          "type": "Point"
-        },
-        "id": "recQzIiCWJlmvh8Tn",
-        "properties": {
-          "address": "3801 Journey Pkwy Norman, OK 73072",
-          "lat": 35.2645854,
-          "locationWebflowID": "\"5fa86a48822d5e60a093747f\"",
-          "lon": -97.4882619,
-          "mapLink": "http://maps.google.com/?q=35.2645854,-97.4882619",
-          "memberName": "Fellowship Church",
-          "memberReference": [
-            "rechWiCRkSErwiRJK"
-          ],
-          "memberWebflowID (from memberReference)": [
-            "5fa868dd658fad6d07fab0b0"
-          ],
-          "name": "Fellowship Church - Norman, OK"
         },
         "type": "Feature"
       },
