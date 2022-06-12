@@ -1326,6 +1326,23 @@
         "type": "Feature"
       },
       {
+        "geometry": null,
+        "id": "recUWAl4xsyYgdWeO",
+        "properties": {
+          "address": "12400 Grandview Rd",
+          "locationWebflowID": "\"62a49e59d7b50cf22f9b4d7b\"",
+          "memberName": "New Vision Christian Center",
+          "memberReference": [
+            "recBwXaRilSCE5lcf"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "62a20c57ed095be2328e0233"
+          ],
+          "name": "New Vision Christian Center"
+        },
+        "type": "Feature"
+      },
+      {
         "geometry": {
           "coordinates": [
             -80.3025686,
