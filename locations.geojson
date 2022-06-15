@@ -366,6 +366,32 @@
       {
         "geometry": {
           "coordinates": [
+            -97.49947159999999,
+            35.3693359
+          ],
+          "type": "Point"
+        },
+        "id": "rec9Hrha6XOsoRmTz",
+        "properties": {
+          "address": "2928 Woodlawn Dr, Moore, Ok 73160",
+          "lat": 35.3693359,
+          "locationWebflowID": "\"62a8d01c7476c745aa6aac1c\"",
+          "lon": -97.49947159999999,
+          "mapLink": "http://maps.google.com/?q=35.3693359,-97.49947159999999",
+          "memberName": "Mark Green Ministries",
+          "memberReference": [
+            "rechh0mXcbZXsSeJn"
+          ],
+          "memberWebflowID (from memberReference)": [
+            "5fa9704884bd18b727ced7de"
+          ],
+          "name": "The Hill Church"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.33583279999999,
             32.5378998
           ],
