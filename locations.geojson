@@ -15,6 +15,7 @@
           "lat": 45.6245625,
           "lon": -122.5893708,
           "mapLink": "http://maps.google.com/?q=45.6245625,-122.5893708",
+          "memberName": "Real Life Church",
           "memberReference": [
             "recTWhnVSwdXEtXkP"
           ],
@@ -295,7 +296,7 @@
         },
         "id": "rec8Ouo0tPh5SGipO",
         "properties": {
-          "address": "Tavares, Florida",
+          "address": "2451 Dora Ave, Tavares, FL 32778",
           "lat": 28.8041579,
           "locationWebflowID": "\"621d6569cc2f857ee23899bd\"",
           "lon": -81.725632,
@@ -1355,7 +1356,7 @@
         "geometry": null,
         "id": "recUWAl4xsyYgdWeO",
         "properties": {
-          "address": "12400 Grandview Rd",
+          "address": "12400 Grandview Rd, Grandview, MO 64030",
           "locationWebflowID": "\"62a49e59d7b50cf22f9b4d7b\"",
           "memberName": "New Vision Christian Center",
           "memberReference": [
@@ -1878,6 +1879,7 @@
           "lat": 38.5488855,
           "lon": -89.9449968,
           "mapLink": "http://maps.google.com/?q=38.5488855,-89.9449968",
+          "memberName": "Faith Family Life Church",
           "memberReference": [
             "recjtDLdliFnCHgm7"
           ],
@@ -2162,6 +2164,7 @@
           "lat": 29.1772676,
           "lon": -81.02556059999999,
           "mapLink": "http://maps.google.com/?q=29.1772676,-81.02556059999999",
+          "memberName": "Relevant Church",
           "memberReference": [
             "recqrL8ibl99XSA3q"
           ],
