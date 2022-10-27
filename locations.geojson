@@ -58,22 +58,6 @@
       "name": "Faith Promise Church"
     },
     {
-      "address": "1705 Conowingo Road Bel Air, MD 21014",
-      "airtableId": "rec4UozknkMDVethe",
-      "lat": 39.5719987,
-      "locationWebflowID": "\"5fa99f4adb2a356b30e2dc49\"",
-      "lon": -76.353689,
-      "mapLink": "http://maps.google.com/?q=39.5719987,-76.353689",
-      "memberName": "Freedom Church",
-      "memberReference": [
-        "recUNvpmahOGpxoAu"
-      ],
-      "memberWebflowID (from memberReference)": [
-        "5fa97126302b783a7ccd1bdb"
-      ],
-      "name": "Freedom Church"
-    },
-    {
       "address": "7451 Bay Area Dr. Corpus Christi, TX 78415",
       "airtableId": "rec55o8m1Nqfz0lK3",
       "lat": 27.6935651,
@@ -394,22 +378,6 @@
       "name": "New Purpose Church"
     },
     {
-      "address": "5200 Tittabawassee\n  Rd, Saginaw, MI 48604",
-      "airtableId": "recCX3rFyc4ORmpdN",
-      "lat": 43.4823441,
-      "locationWebflowID": "\"60edc3a35176f40dd1d28f51\"",
-      "lon": -84.02172,
-      "mapLink": "http://maps.google.com/?q=43.4823441,-84.02172",
-      "memberName": "Life Church Michigan - Bay City Campus",
-      "memberReference": [
-        "recHiPh6PErV4JVXA"
-      ],
-      "memberWebflowID (from memberReference)": [
-        "60b7a3f28c69e8159dcfad67"
-      ],
-      "name": "Life Church Michigan"
-    },
-    {
       "address": "1850 St-Antoine Lachine - Quebec, Canada H8S1V4",
       "airtableId": "recCqCErHF2nE7BGv",
       "lat": 45.4401393,
@@ -520,22 +488,6 @@
         "5fa9671ae12817afd4050692"
       ],
       "name": "Second Baptist Church Houston - Woodway"
-    },
-    {
-      "address": "580 Green Way Blvd Lake Mary, FL 32746",
-      "airtableId": "recF2YA3OUYTHU4Lk",
-      "lat": 28.73437239999999,
-      "locationWebflowID": "\"60feec860993df3d0f0abc59\"",
-      "lon": -81.3392968,
-      "mapLink": "http://maps.google.com/?q=28.73437239999999,-81.3392968",
-      "memberName": "The Light House",
-      "memberReference": [
-        "rec16KTJyecHb69pd"
-      ],
-      "memberWebflowID (from memberReference)": [
-        "60e5f8a89269dee049e85aee"
-      ],
-      "name": "The Light House - Meets at Lake Mary Branch Library"
     },
     {
       "address": "3417 Murdoch Ave, Parkersburg, WV 26101",
@@ -885,22 +837,6 @@
         "5fa9704884bd18b727ced7de"
       ],
       "name": "Mark Green Ministries"
-    },
-    {
-      "address": "8425 Bell Street Amarillo, TX 79110",
-      "airtableId": "recVkOUzbEv96KxF4",
-      "lat": 35.1208838,
-      "locationWebflowID": "\"5fa9814ca223ddf5787e6d0b\"",
-      "lon": -101.9012028,
-      "mapLink": "http://maps.google.com/?q=35.1208838,-101.9012028",
-      "memberName": "Amarillo Fellowship",
-      "memberReference": [
-        "recsDsVTZfVcWitqJ"
-      ],
-      "memberWebflowID (from memberReference)": [
-        "5fa9546fd1c88f02291bcf00"
-      ],
-      "name": "Amarillo Fellowship"
     },
     {
       "address": "1060 E.  Jackson St. Morton, IL 61550",
@@ -1765,22 +1701,6 @@
         "5fa970c01d7727434980a2bc"
       ],
       "name": "Roots Church"
-    },
-    {
-      "address": "9020 Imperial Oak Blvd, Tampa, FL 33647",
-      "airtableId": "reczJvPXdNf8wSy4z",
-      "lat": 28.1678069,
-      "locationWebflowID": "\"60edc230005b8547cc6af750\"",
-      "lon": -82.35077919999999,
-      "mapLink": "http://maps.google.com/?q=28.1678069,-82.35077919999999",
-      "memberName": "The Gathering",
-      "memberReference": [
-        "recBxVQCJfoafNFP6"
-      ],
-      "memberWebflowID (from memberReference)": [
-        "5fa96103e09fc1cf1748b39e"
-      ],
-      "name": "The Gathering\n  Church"
     },
     {
       "address": "1601 Interstate 35 #305 Round Rock, TX 78664",
