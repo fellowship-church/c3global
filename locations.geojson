@@ -666,22 +666,6 @@
       "name": "The Resurrection Center"
     },
     {
-      "address": "Brackenwood Dr, Roundhay, Leeds LS8 1RG, United Kingdom",
-      "airtableId": "recM3XmgAgN4r2RaO",
-      "lat": 53.8368311,
-      "locationWebflowID": "\"60edb456c37eb752daab8096\"",
-      "lon": -1.5250635,
-      "mapLink": "http://maps.google.com/?q=53.8368311,-1.5250635",
-      "memberName": "All Nations Community Church Leeds",
-      "memberReference": [
-        "recnSQIuiSATIhXZz"
-      ],
-      "memberWebflowID (from memberReference)": [
-        "60e068c5bdf3ab671770b873"
-      ],
-      "name": "All Nations Community Church Leeds"
-    },
-    {
       "address": "6780 N Socrum Loop Rd Lakeland, FL 33809",
       "airtableId": "recOSBVjAn9fVVJjC",
       "lat": 28.1275353,
